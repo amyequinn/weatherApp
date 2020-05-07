@@ -20,6 +20,8 @@ export default class Weather {
       .then(data => {
         window.results = data
         this.results = data.daily
+        this.hourly = data.hourly
+
 
 
       })
