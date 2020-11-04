@@ -12,3 +12,4 @@ NPM run start
 
 This opens the app on http://localhost:8080/
 
+Published to heroku https://weather-app-using-api.herokuapp.com/ 
